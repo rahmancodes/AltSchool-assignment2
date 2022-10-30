@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import home from "../assets/images/image-home.png";
+import home from "../assets/images/image-home.jpg";
 import NavbarMobile from "../components/NavbarMobile";
 
 const Home = () => {

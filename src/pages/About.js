@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import about from "../assets/images/image-About.png";
+import about from "../assets/images/image-about.jpg";
 import NavbarMobile from "../components/NavbarMobile";
 
 const About = () => {
